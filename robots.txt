@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gtherov.github.io/sitemap.html.gz
+Sitemap: https://gtherov.github.io/app/sitemap.html.gz
+Sitemap: https://gtherov.github.io/assets/sitemap.html.gz
+Sitemap: https://gtherov.github.io/css/sitemap.html.gz
+Sitemap: https://gtherov.github.io/includes/sitemap.html.gz
+Sitemap: https://gtherov.github.io/item/sitemap.html.gz
+Sitemap: https://gtherov.github.io/src/sitemap.html.gz
